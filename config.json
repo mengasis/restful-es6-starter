@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "port": 1337,
+  "environment": "development",
+  "secret": ";Ae[4KLVwe)_569MCK",
+  "database": {
+    "server": "127.0.0.1",
+    "db": "test",
+    "username": "root",
+    "password": "",
+    "dialect": "mysql"
+  }
+}
